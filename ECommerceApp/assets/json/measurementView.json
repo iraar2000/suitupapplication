@@ -1,0 +1,62 @@
+{
+    "armLength" : {
+        "image": "/msrntImages/sleeve_length.png",
+        "inputTextTitles": ["arm length..."]
+    },
+    "jacketLength": {
+        "image": "/msrntImages/jacket_length.png",
+        "inputTextTitles": ["jacket length..."]
+    },
+    "trouserLength": {
+        "image":"/msrntImages/trouser_length.png",
+        "inputTextTitles": ["trouser length..."]
+    },
+    "trouserRise": {
+        "image": "/msrntImages/trouser_rise.png",
+        "inputTextTitles": ["full rise...", "front rise...", "back rise..."]
+    },
+    "shoulderWidth": {
+        "image":"/msrntImages/shoulder_width.png",
+        "inputTextTitles": ["shoulder width..."]
+    },
+    "jacketWaist": {
+        "image": "/msrntImages/jacket_waist.png",
+        "inputTextTitles": ["jacket waist..."]
+    },
+    "neckCircumference": {
+        "image" : "/msrntImages/neck_circumference.png",
+        "inputTextTitles": ["neck circumference..."]
+    },
+    "bellyCircumference": {
+        "image": "/msrntImages/belly_circumference.png",
+        "inputTextTitles": ["full belly circumference...", "front belly circumference...", "back belly circumference..."]
+    },
+    "bicepsCircumference": {
+        "image":"/msrntImages/biceps_circumference.png",
+        "inputTextTitles":["biceps circumference..."]
+    },
+    "chestCircumference": {
+        "image":"/msrntImages/chest_circumference.png",
+        "inputTextTitles": ["full chest circumference...","front chest circumference...","back chest circumference..."]
+    },
+    "hipCircumference": {
+        "image":"/msrntImages/hip_circumference.png",
+        "inputTextTitles": ["hip circumference..."]
+    },
+    "kneeCircumference": {
+        "image": "/msrntImages/knee_circumference.png",
+        "inputTextTitles": ["knee circumference..."]
+    },
+    "thighCircumference": {
+        "image": "/msrntImages/thigh_circumference.png",
+        "inputTextTitles": ["thigh circumference..."]
+    },
+    "waistCircumference": {
+        "image": "/msrntImages/waist_circumference.png",
+        "inputTextTitles": ["waist circumference..."]
+    },
+    "wristCircumference": {
+        "image": "/msrntImages/wrist_circumference.png",
+        "inputTextTitles": ["wrist circumference..."]
+    }
+}
